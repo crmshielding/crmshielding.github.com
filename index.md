@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-The site is still under construction.
+The site is still under construction
 
 CRM Shielding has designed the XTF 1, a unique multifunctional shielding with applications for use both in Space and on Earth. The XTF 1 is designed to mitigate the threats of radiation and micrometeoroids in space and to lessen the threat of radiation exposure on Earth. The XTF 1 provides the solution to an unmet need that not only affects the aerospace industry currently, but has direct effects on the future of the industry?s success. Most current technologies are incompatible with many of the new creative spacecraft proposed by the burgeoning commercial space companies.
 
