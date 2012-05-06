@@ -6,4 +6,4 @@ group: navigation
 ---
 {% include JB/setup %}
 
-This page is a placeholder for content.
+This page is a placeholder for content

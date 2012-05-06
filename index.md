@@ -1,7 +1,7 @@
 ---
 layout: pagewl
-title: 
-tagline: 
+title:
+tagline:
 group: navigation
 ---
 {% include JB/setup %}
