@@ -5,3 +5,5 @@ tagline: Innovative radiation and micrometeoroidal shielding for the aerospace i
 group: navigation
 ---
 {% include JB/setup %}
+
+This page is a placeholder for content.
