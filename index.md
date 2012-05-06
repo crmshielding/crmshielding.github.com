@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: CRM Shielding
+tagline: Innovative radiation and micrometeoroidal shielding for the aerospace industry.
+group: navigation
 ---
 {% include JB/setup %}
 
