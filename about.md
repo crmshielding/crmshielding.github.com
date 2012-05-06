@@ -6,6 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-The site is still under construction.
+The site is still under construction. We're still working out the kinks.
 
 This page is a placeholder for content.
